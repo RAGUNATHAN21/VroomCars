@@ -1,0 +1,7 @@
+C:\Users\ragun\source\repos\wednes Ass\wednes Ass\bin\Debug\wednes Ass.exe.config
+C:\Users\ragun\source\repos\wednes Ass\wednes Ass\bin\Debug\wednes Ass.exe
+C:\Users\ragun\source\repos\wednes Ass\wednes Ass\bin\Debug\wednes Ass.pdb
+C:\Users\ragun\source\repos\wednes Ass\wednes Ass\obj\Debug\wednes Ass.csproj.AssemblyReference.cache
+C:\Users\ragun\source\repos\wednes Ass\wednes Ass\obj\Debug\wednes Ass.csproj.CoreCompileInputs.cache
+C:\Users\ragun\source\repos\wednes Ass\wednes Ass\obj\Debug\wednes Ass.exe
+C:\Users\ragun\source\repos\wednes Ass\wednes Ass\obj\Debug\wednes Ass.pdb

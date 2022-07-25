@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infosys.DBFirstCore.DataAccessLayer", "Infosys.DBFirstCore.DataAccessLayer\Infosys.DBFirstCore.DataAccessLayer.csproj", "{A2317428-E6A9-41D8-BE2D-2A8B75CD316F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infosys.DBFirstCore.ConsoleUI", "Infosys.DBFirstCore.ConsoleUI\Infosys.DBFirstCore.ConsoleUI.csproj", "{FC65DD6A-4189-48EC-9FA6-895E8C6D9C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2317428-E6A9-41D8-BE2D-2A8B75CD316F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2317428-E6A9-41D8-BE2D-2A8B75CD316F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2317428-E6A9-41D8-BE2D-2A8B75CD316F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2317428-E6A9-41D8-BE2D-2A8B75CD316F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC65DD6A-4189-48EC-9FA6-895E8C6D9C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC65DD6A-4189-48EC-9FA6-895E8C6D9C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC65DD6A-4189-48EC-9FA6-895E8C6D9C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC65DD6A-4189-48EC-9FA6-895E8C6D9C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D301332-3B22-4C69-8DE3-49AE5048D307}
+	EndGlobalSection
+EndGlobal

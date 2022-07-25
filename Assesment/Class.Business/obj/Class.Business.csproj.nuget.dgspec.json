@@ -1,0 +1,259 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Business\\Class.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Business\\Class.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Business\\Class.Business.csproj",
+        "projectName": "Class.Business",
+        "projectPath": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Business\\Class.Business.csproj",
+        "packagesPath": "C:\\Users\\ragun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ragun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Models\\Class.Models.csproj": {
+                "projectPath": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Models\\Class.Models.csproj"
+              },
+              "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Repositary\\Class.Repositary.csproj": {
+                "projectPath": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Repositary\\Class.Repositary.csproj"
+              },
+              "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Utilities\\Class.Utilities.csproj": {
+                "projectPath": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Utilities\\Class.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Models\\Class.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Models\\Class.Models.csproj",
+        "projectName": "Class.Models",
+        "projectPath": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Models\\Class.Models.csproj",
+        "packagesPath": "C:\\Users\\ragun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ragun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Repositary\\Class.Repositary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Repositary\\Class.Repositary.csproj",
+        "projectName": "Class.Repositary",
+        "projectPath": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Repositary\\Class.Repositary.csproj",
+        "packagesPath": "C:\\Users\\ragun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Repositary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ragun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Utilities\\Class.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Utilities\\Class.Utilities.csproj",
+        "projectName": "Class.Utilities",
+        "projectPath": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Utilities\\Class.Utilities.csproj",
+        "packagesPath": "C:\\Users\\ragun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ragun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Models\\Class.Models.csproj": {
+                "projectPath": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Models\\Class.Models.csproj"
+              },
+              "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Repositary\\Class.Repositary.csproj": {
+                "projectPath": "C:\\Users\\ragun\\source\\repos\\Assesment\\Class.Repositary\\Class.Repositary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

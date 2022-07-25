@@ -1,0 +1,10 @@
+C:\Users\ragun\source\repos\June27\WinformDemo\bin\Debug\WinformDemo.exe.config
+C:\Users\ragun\source\repos\June27\WinformDemo\bin\Debug\WinformDemo.exe
+C:\Users\ragun\source\repos\June27\WinformDemo\bin\Debug\WinformDemo.pdb
+C:\Users\ragun\source\repos\June27\WinformDemo\obj\Debug\WinformDemo.csproj.AssemblyReference.cache
+C:\Users\ragun\source\repos\June27\WinformDemo\obj\Debug\WinformDemo.Form1.resources
+C:\Users\ragun\source\repos\June27\WinformDemo\obj\Debug\WinformDemo.Properties.Resources.resources
+C:\Users\ragun\source\repos\June27\WinformDemo\obj\Debug\WinformDemo.csproj.GenerateResource.cache
+C:\Users\ragun\source\repos\June27\WinformDemo\obj\Debug\WinformDemo.csproj.CoreCompileInputs.cache
+C:\Users\ragun\source\repos\June27\WinformDemo\obj\Debug\WinformDemo.exe
+C:\Users\ragun\source\repos\June27\WinformDemo\obj\Debug\WinformDemo.pdb

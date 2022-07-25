@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Class.Models\Class.Models.csproj" />
+    <ProjectReference Include="..\Class.Repositary\Class.Repositary.csproj" />
+    <ProjectReference Include="..\Class.Utilities\Class.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

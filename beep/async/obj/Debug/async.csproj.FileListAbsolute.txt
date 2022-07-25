@@ -1,0 +1,10 @@
+C:\Users\ragun\source\repos\beep\async\bin\Debug\async.exe.config
+C:\Users\ragun\source\repos\beep\async\bin\Debug\async.exe
+C:\Users\ragun\source\repos\beep\async\bin\Debug\async.pdb
+C:\Users\ragun\source\repos\beep\async\obj\Debug\async.csproj.AssemblyReference.cache
+C:\Users\ragun\source\repos\beep\async\obj\Debug\async.Form1.resources
+C:\Users\ragun\source\repos\beep\async\obj\Debug\async.Properties.Resources.resources
+C:\Users\ragun\source\repos\beep\async\obj\Debug\async.csproj.GenerateResource.cache
+C:\Users\ragun\source\repos\beep\async\obj\Debug\async.csproj.CoreCompileInputs.cache
+C:\Users\ragun\source\repos\beep\async\obj\Debug\async.exe
+C:\Users\ragun\source\repos\beep\async\obj\Debug\async.pdb

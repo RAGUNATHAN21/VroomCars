@@ -1,0 +1,15 @@
+C:\Users\ragun\source\repos\Assesment\Class.Repositary\bin\Debug\net5.0\Class.Repositary.deps.json
+C:\Users\ragun\source\repos\Assesment\Class.Repositary\bin\Debug\net5.0\Class.Repositary.runtimeconfig.json
+C:\Users\ragun\source\repos\Assesment\Class.Repositary\bin\Debug\net5.0\Class.Repositary.runtimeconfig.dev.json
+C:\Users\ragun\source\repos\Assesment\Class.Repositary\bin\Debug\net5.0\Class.Repositary.dll
+C:\Users\ragun\source\repos\Assesment\Class.Repositary\bin\Debug\net5.0\ref\Class.Repositary.dll
+C:\Users\ragun\source\repos\Assesment\Class.Repositary\bin\Debug\net5.0\Class.Repositary.pdb
+C:\Users\ragun\source\repos\Assesment\Class.Repositary\obj\Debug\net5.0\Class.Repositary.csproj.AssemblyReference.cache
+C:\Users\ragun\source\repos\Assesment\Class.Repositary\obj\Debug\net5.0\Class.Repositary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragun\source\repos\Assesment\Class.Repositary\obj\Debug\net5.0\Class.Repositary.AssemblyInfoInputs.cache
+C:\Users\ragun\source\repos\Assesment\Class.Repositary\obj\Debug\net5.0\Class.Repositary.AssemblyInfo.cs
+C:\Users\ragun\source\repos\Assesment\Class.Repositary\obj\Debug\net5.0\Class.Repositary.csproj.CoreCompileInputs.cache
+C:\Users\ragun\source\repos\Assesment\Class.Repositary\obj\Debug\net5.0\Class.Repositary.dll
+C:\Users\ragun\source\repos\Assesment\Class.Repositary\obj\Debug\net5.0\ref\Class.Repositary.dll
+C:\Users\ragun\source\repos\Assesment\Class.Repositary\obj\Debug\net5.0\Class.Repositary.pdb
+C:\Users\ragun\source\repos\Assesment\Class.Repositary\obj\Debug\net5.0\Class.Repositary.genruntimeconfig.cache

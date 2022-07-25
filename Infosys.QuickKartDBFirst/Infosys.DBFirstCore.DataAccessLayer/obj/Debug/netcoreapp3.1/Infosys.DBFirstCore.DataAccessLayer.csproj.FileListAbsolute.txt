@@ -1,0 +1,13 @@
+C:\Users\ragun\source\repos\Infosys.QuickKartDBFirst\Infosys.DBFirstCore.DataAccessLayer\bin\Debug\netcoreapp3.1\Infosys.DBFirstCore.DataAccessLayer.deps.json
+C:\Users\ragun\source\repos\Infosys.QuickKartDBFirst\Infosys.DBFirstCore.DataAccessLayer\bin\Debug\netcoreapp3.1\Infosys.DBFirstCore.DataAccessLayer.runtimeconfig.json
+C:\Users\ragun\source\repos\Infosys.QuickKartDBFirst\Infosys.DBFirstCore.DataAccessLayer\bin\Debug\netcoreapp3.1\Infosys.DBFirstCore.DataAccessLayer.runtimeconfig.dev.json
+C:\Users\ragun\source\repos\Infosys.QuickKartDBFirst\Infosys.DBFirstCore.DataAccessLayer\bin\Debug\netcoreapp3.1\Infosys.DBFirstCore.DataAccessLayer.dll
+C:\Users\ragun\source\repos\Infosys.QuickKartDBFirst\Infosys.DBFirstCore.DataAccessLayer\bin\Debug\netcoreapp3.1\Infosys.DBFirstCore.DataAccessLayer.pdb
+C:\Users\ragun\source\repos\Infosys.QuickKartDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\netcoreapp3.1\Infosys.DBFirstCore.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ragun\source\repos\Infosys.QuickKartDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\netcoreapp3.1\Infosys.DBFirstCore.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragun\source\repos\Infosys.QuickKartDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\netcoreapp3.1\Infosys.DBFirstCore.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ragun\source\repos\Infosys.QuickKartDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\netcoreapp3.1\Infosys.DBFirstCore.DataAccessLayer.AssemblyInfo.cs
+C:\Users\ragun\source\repos\Infosys.QuickKartDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\netcoreapp3.1\Infosys.DBFirstCore.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ragun\source\repos\Infosys.QuickKartDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\netcoreapp3.1\Infosys.DBFirstCore.DataAccessLayer.dll
+C:\Users\ragun\source\repos\Infosys.QuickKartDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\netcoreapp3.1\Infosys.DBFirstCore.DataAccessLayer.pdb
+C:\Users\ragun\source\repos\Infosys.QuickKartDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\netcoreapp3.1\Infosys.DBFirstCore.DataAccessLayer.genruntimeconfig.cache

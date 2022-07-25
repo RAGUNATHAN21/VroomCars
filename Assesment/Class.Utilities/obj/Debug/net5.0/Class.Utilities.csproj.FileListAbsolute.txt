@@ -1,0 +1,17 @@
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\bin\Debug\net5.0\Class.Utilities.deps.json
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\bin\Debug\net5.0\Class.Utilities.dll
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\bin\Debug\net5.0\ref\Class.Utilities.dll
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\bin\Debug\net5.0\Class.Utilities.pdb
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\bin\Debug\net5.0\Class.Models.dll
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\bin\Debug\net5.0\Class.Repositary.dll
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\bin\Debug\net5.0\Class.Models.pdb
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\bin\Debug\net5.0\Class.Repositary.pdb
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\obj\Debug\net5.0\Class.Utilities.csproj.AssemblyReference.cache
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\obj\Debug\net5.0\Class.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\obj\Debug\net5.0\Class.Utilities.AssemblyInfoInputs.cache
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\obj\Debug\net5.0\Class.Utilities.AssemblyInfo.cs
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\obj\Debug\net5.0\Class.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\obj\Debug\net5.0\Class.Utilities.csproj.CopyComplete
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\obj\Debug\net5.0\Class.Utilities.dll
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\obj\Debug\net5.0\ref\Class.Utilities.dll
+C:\Users\ragun\source\repos\Assesment\Class.Utilities\obj\Debug\net5.0\Class.Utilities.pdb

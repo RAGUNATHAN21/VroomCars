@@ -1,0 +1,12 @@
+C:\Users\ragun\source\repos\Assesment\Class.Communication\bin\Debug\net5.0\Class.Communication.deps.json
+C:\Users\ragun\source\repos\Assesment\Class.Communication\bin\Debug\net5.0\Class.Communication.dll
+C:\Users\ragun\source\repos\Assesment\Class.Communication\bin\Debug\net5.0\ref\Class.Communication.dll
+C:\Users\ragun\source\repos\Assesment\Class.Communication\bin\Debug\net5.0\Class.Communication.pdb
+C:\Users\ragun\source\repos\Assesment\Class.Communication\obj\Debug\net5.0\Class.Communication.csproj.AssemblyReference.cache
+C:\Users\ragun\source\repos\Assesment\Class.Communication\obj\Debug\net5.0\Class.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragun\source\repos\Assesment\Class.Communication\obj\Debug\net5.0\Class.Communication.AssemblyInfoInputs.cache
+C:\Users\ragun\source\repos\Assesment\Class.Communication\obj\Debug\net5.0\Class.Communication.AssemblyInfo.cs
+C:\Users\ragun\source\repos\Assesment\Class.Communication\obj\Debug\net5.0\Class.Communication.csproj.CoreCompileInputs.cache
+C:\Users\ragun\source\repos\Assesment\Class.Communication\obj\Debug\net5.0\Class.Communication.dll
+C:\Users\ragun\source\repos\Assesment\Class.Communication\obj\Debug\net5.0\ref\Class.Communication.dll
+C:\Users\ragun\source\repos\Assesment\Class.Communication\obj\Debug\net5.0\Class.Communication.pdb
